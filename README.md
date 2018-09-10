@@ -1,2 +1,2 @@
 # typedoc-revenant
-A TypeDoc theme to match the Revenant theme for Ghost.
+A [TypeDoc](http://typedoc.org) theme to match the [Revenant theme](https://github.com/ianpaschal/revenant) for [Ghost](https://ghost.org).
